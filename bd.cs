@@ -6,7 +6,7 @@ public class bd
 {
 
 
-    private static string ConnectionStr = "Data Source=.;Initial Catalog=BACKOFFICE;user id=sa;password=saa;";
+    private static string ConnectionStr = "Data Source=.;Initial Catalog=Test;user id=sa;password=saa;";
 
     public static string getStrConnection()
     {
